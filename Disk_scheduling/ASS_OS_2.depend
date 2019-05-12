@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555865826 source:c:\users\osama_mohsen\desktop\ass_os_2\main.cpp
+	<iostream>
+	<string.h>
+	<bits/stdc++.h>
+
